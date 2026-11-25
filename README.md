@@ -17,4 +17,4 @@ In the works.
 <a href="shots/check.webp"><img src="shots/check.webp" width="49%" alt="The page: a draft checked against the record, with what to fix before it leaves"></a>
 </p>
 
-Every name, date, and amount shown is made up.
+Example data.
