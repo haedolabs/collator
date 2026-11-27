@@ -2,7 +2,7 @@
 
 # Collator™
 
-By [Haedo Labs](https://haedolabs.com)™.
+[By Haedo Labs™.](https://haedolabs.com)
 
 A private evidence engine: every fact kept with its source.
 
