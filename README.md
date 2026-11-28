@@ -1,6 +1,6 @@
 <img src="logo.svg" width="128" height="128" alt="">
 
-# Collator™
+# <picture><source media="(prefers-color-scheme: dark)" srcset="name-dark.svg"><img src="name-light.svg" alt="Collator™" height="32"></picture>
 
 [By Haedo Labs™.](https://haedolabs.com)
 
